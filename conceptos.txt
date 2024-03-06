@@ -126,3 +126,12 @@ de la aplicación, entre componentes que están anidados en varios niveles en la
 El contexto en React consta de dos partes principales: el proveedor (Provider) y el consumidor (Consumer). 
 El proveedor es responsable de proporcionar los datos, mientras que el consumidor se encarga de consumir esos datos 
 en cualquier nivel de la jerarquía de componentes.
+
+- Firebase: Es un servicio provisto por Google para satisfacer las distintas necesidades que puede tener una aplicación y 
+su ciclo de desarrollo, dentro de las cuales encontramos:
+* Seguridad y autenticación.
+* Almacenamiento y consulta.
+* Hosting.
+* Monitoreo.
+* Functions y más. 
+https://firebase.google.com/?hl=es
